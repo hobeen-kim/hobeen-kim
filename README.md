@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 🚀 Link
 
 블로그 : https://hobeen-kim.github.io/
+
 노션 포트폴리오 : https://typhoon-philosophy-a98.notion.site/07e3ca9c77b84559ae71e444cc6ad39f?pvs=4
 
 ### 😎 About Me
