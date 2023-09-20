@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 확장 가능한 개발자, 김호빈 입니다.
 
-## 🚀 Link
+## 🚀 Link & Contact
 
 블로그 : https://hobeen-kim.github.io/
 
