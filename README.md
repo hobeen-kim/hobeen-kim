@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 성장하는 개발자, 김호빈 입니다.
+
 ## 🚀 Link
 
 블로그 : https://hobeen-kim.github.io/
