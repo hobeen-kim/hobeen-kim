@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:a82da8,100:86BFDE&text=hobeen's%20github!)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:a82da8,100:86BFDE&text=hobeen's%20github!)
 
 <!--
 **hobeen-kim/hobeen-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
