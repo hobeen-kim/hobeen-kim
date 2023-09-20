@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ### DevOps
-<img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img alt="aws" src ="https://img.shields.io/badge/aws-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=#FF9900"/> <img alt="docker" src ="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img alt="aws" src ="https://img.shields.io/badge/aws-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=#FF9900"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 
 ## 💎 Others
