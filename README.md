@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 블로그 : https://hobeen-kim.github.io/
 
-노션 포트폴리오 : https://typhoon-philosophy-a98.notion.site/07e3ca9c77b84559ae71e444cc6ad39f
-
-이메일 : sksjsksh32@naver.com
-
 ## 😎 About Me
 
 - 프로그래밍 언어도 하나의 **소통하기 위한 언어**라고 생각합니다. 제 코드를 다른 사람이 쉽게 사용할 수 있을지 계속 고민합니다.
@@ -47,3 +43,6 @@ Here are some ideas to get you started:
 ## 💎 Others
 
 ![Hobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobeen-kim&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksjsksh32)](https://solved.ac/sksjsksh32/)
+
