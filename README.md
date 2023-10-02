@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 <img alt="mysql" src ="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img alt="aws" src ="https://img.shields.io/badge/aws-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=#FF9900"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
 
+
+
+
+
+
 ## 💎 Others
 
-![Hobeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hobeen-kim&show_icons=true&theme=radical)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksjsksh32)](https://solved.ac/sksjsksh32/)
-
+<img src="https://github-readme-stats.vercel.app/api?username=hobeen-kim&show_icons=true&theme=radical" height="200" style="margin: 0 15px;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sksjsksh32" height="200" style="margin: 0 15px;">
