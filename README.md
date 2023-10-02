@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 ## 💎 Others
 
-<img src="https://github-readme-stats.vercel.app/api?username=hobeen-kim&show_icons=true&theme=radical" height="200" style="margin: 0 15px;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sksjsksh32" height="200" style="margin: 0 15px;">
+<img src="https://github-readme-stats.vercel.app/api?username=hobeen-kim&show_icons=true&theme=radical" height="150" style="margin: 0 15px;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sksjsksh32" height="150" style="margin: 0 15px;">
