@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## 🚀 Link & Contact
 
 블로그 : https://hobeen-kim.github.io/
+이메일 : sksjsksh32@naver.com
 
 ## 😎 About Me
 
