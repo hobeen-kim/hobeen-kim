@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 블로그 : https://hobeen-kim.github.io/
 
-이메일 : sksjsksh32@naver.com
+이메일 : sksjsksh32@gmail.com
 
 ## 😎 About Me
 
@@ -48,15 +48,12 @@ Here are some ideas to get you started:
 - 하루 8000만 건 로그, API 호출 4000만 회의 추천 시스템 관리
 - 추천 결과 리포트를 확인하는 백오피스 기능
 
+🚴‍♂️ Personal Experience & Projects
+
 ### 한달살러 백엔드 개발자
 - 2024.05 ~ 현재
 - 국내 여행 지원금 정보를 제공하는 프로젝트 (ios, Android, web 에서 서비스 중)
 - [한달살러 바로가기](https://www.monthler.kr/programs)
-
-
-
-
-
 
 ## 💎 Others
 
