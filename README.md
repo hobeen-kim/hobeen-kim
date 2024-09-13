@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 이메일 : sksjsksh32@gmail.com
 
+이력서 : [노션 이력서](https://typhoon-philosophy-a98.notion.site/e6dedbd6609d4dd182973a38c209c9d3?pvs=74)
+
 ## 😎 About Me
 
 - 읽기 편한 수필같은 코드를 작성하기 위해 노력하고 있습니다.
