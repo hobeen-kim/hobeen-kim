@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ## 🚴‍♂️ Personal Experience & Projects
 
 ### 한달살러 백엔드 개발자
-- 2024.01 ~ 현재
+- 2024.01 ~ 2024.12
 - 국내 여행 지원금 정보를 제공하는 프로젝트 (ios, Android, web 에서 서비스 중)
 - [한달살러 바로가기](https://www.monthler.kr/programs)
 
