@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:a82da8,100:86BFDE&text=hobeen's%20github!&fontColor=ffffff)
-
 # 백엔드 엔지니어 김호빈 입니다.
 
 ## 🚀 Link & Contact
